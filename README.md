@@ -2,6 +2,9 @@
 ### PR's Welcomed
 <br>
 
+[![HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Asnetwork22/MERGE-BOT)
+
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/yashoswalyo/MERGE-BOT?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/yashoswalyo/MERGE-BOT?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/yashoswalyo/MERGE-BOT)
